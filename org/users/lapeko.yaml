@@ -1,0 +1,8 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: lapeko
+spec:
+  profile:
+    displayName: Vitali
+  memberOf: [team-platform]

@@ -7,3 +7,4 @@ spec:
   type: url
   targets:
     - ./teams/platform.yaml
+    - ./users/lapeko.yaml
