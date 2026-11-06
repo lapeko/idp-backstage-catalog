@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: organization-data
+  description: Organization catalog
+spec:
+  type: url
+  targets:
+    - ./teams/platform.yaml
